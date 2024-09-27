@@ -105,9 +105,4 @@
     margin: 0;
     width: 100vw;
   }
-
-  .profile__new-post-image {
-    width: 288px;
-    height: 52px;
-  }
 }
