@@ -59,7 +59,7 @@
 }
 
 .profile__edit-button:hover {
-  color: rgba(33, 33, 33, 0.8);
+  color: rgba(33, 33, 33, 1);
 }
 
 .profile__button-text {
@@ -76,7 +76,7 @@
 }
 
 .profile__new-post-button:hover {
-  color: rgba(33, 33, 33, 0.8);
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 627px) {
