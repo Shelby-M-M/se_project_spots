@@ -57,6 +57,7 @@
   }
 
   .card__like-button {
+    background-image: url(../images/small-like-icon.svg);
     width: 20px;
     height: 18px;
   }
