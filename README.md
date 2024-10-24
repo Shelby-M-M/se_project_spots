@@ -20,7 +20,7 @@ Independently used HTML formating to create the flow for the Spots webpage.
 
 **CSS**
 
-All styles were applyed to CSS for better organization. Blocks were assigned assigned their own css document to better track styles that were placed in the HTML document.
+All styles were applyed to CSS for better organization. Blocks were assigned their own css document to better track styles that were placed in the HTML document.
 
 **BEM**
 
@@ -46,7 +46,7 @@ Images and Logo were exported directly off of Figma. Distances between items and
 
 **Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
+The images were exported directly from Figma and optimized for faster load times.
 
 ### Deployment
 
