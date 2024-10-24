@@ -48,7 +48,7 @@ Images and Logo were exported directly off of Figma. Distances between items and
 
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
 
-### Diployment
+### Deployment
 
 Google Drive Link:
 https://drive.google.com/file/d/1cZ6Wch7Kppln8nH9TlKJvxKVd24eD50S/view?usp=sharing
