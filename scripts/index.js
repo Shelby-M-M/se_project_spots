@@ -29,6 +29,11 @@ const initialCards = [
     link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/6-photo-by-moritz-feldmann-from-pexels.jpg",
     alt: "Cabin in the snow",
   },
+  {
+    name: "Golden Gate Bridge",
+    link: " https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/7-photo-by-griffin-wooldridge-from-pexels.jpg",
+    alt: "Golden Gate Bridge",
+  },
 ];
 
 console.log(initialCards);
